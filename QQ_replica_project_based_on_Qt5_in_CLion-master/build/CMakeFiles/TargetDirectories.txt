@@ -1,0 +1,5 @@
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/CMakeFiles/Heart.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/CMakeFiles/Heart_autogen_timestamp_deps.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/CMakeFiles/Heart_autogen.dir

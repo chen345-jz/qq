@@ -1,0 +1,1 @@
+在 C:\Users\Administrator.DESKTOP-QBVF4GM\Desktop\QQ_replica_project_based_on_Qt5_in_CLion-master\QQ_replica_project_based_on_Qt5_in_CLion-master 中找不到 CMakeLists.txt 选择 CMakeLists.txt

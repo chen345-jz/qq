@@ -1,0 +1,25 @@
+# ninja log v6
+461	3145	7773771231631993	CMakeFiles/Heart.dir/chatpage.cpp.obj	4271b0fd05db68a9
+487	3025	7773771231901099	CMakeFiles/Heart.dir/Heart_autogen/EWIEGA46WW/qrc_res.cpp.obj	4adf111fb5471080
+2	363	7773771230326358	Heart_autogen/timestamp	4e1ffb7c4e558f1
+367	446	7773771231422692	C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Heart_autogen/EWIEGA46WW/qrc_res.cpp	853680aecf1e02d0
+453	2051	7773771231562224	CMakeFiles/Heart.dir/protocol.cpp.obj	97155c9f4ac79b59
+2	363	7773771230326358	Heart_autogen/mocs_compilation.cpp	4e1ffb7c4e558f1
+367	446	7773771231422692	Heart_autogen/EWIEGA46WW/qrc_res.cpp	853680aecf1e02d0
+446	3022	7773771231482490	CMakeFiles/Heart.dir/Heart_autogen/mocs_compilation.cpp.obj	ddd3ea1e6471d5a7
+2	363	7773771230326358	C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Heart_autogen/timestamp	4e1ffb7c4e558f1
+449	1921	7773771231522357	CMakeFiles/Heart.dir/appconfig.cpp.obj	3c81852b7b615d8c
+455	3228	7773771231582162	CMakeFiles/Heart.dir/loginpage.cpp.obj	71b9e6422cee64ac
+2	363	7773771230326358	C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/QQ_replica_project_based_on_Qt5_in_CLion-master/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Heart_autogen/mocs_compilation.cpp	4e1ffb7c4e558f1
+457	1929	7773771231602098	CMakeFiles/Heart.dir/poolmanager.cpp.obj	32c2126d4a1377df
+3228	4032	7773771259313988	Heart.exe	92472243afac8e79
+475	2198	7773771231771563	CMakeFiles/Heart.dir/MyClient.cpp.obj	166b0e24317c01fe
+463	2242	7773771231651942	CMakeFiles/Heart.dir/dynamicgradientbg.cpp.obj	c72a82cf2d09a2b1
+465	2405	7773771231681843	CMakeFiles/Heart.dir/createpage.cpp.obj	f28355977f95689
+472	2552	7773771231751624	CMakeFiles/Heart.dir/MyServer.cpp.obj	7e5b9949cf8e6855
+452	2593	7773771231542291	CMakeFiles/Heart.dir/databasemanager.cpp.obj	f40f1d6df44e0180
+484	2664	7773771231871196	CMakeFiles/Heart.dir/DeveloperPage.cpp.obj	a0bbeb0008bd164c
+448	2723	7773771231502424	CMakeFiles/Heart.dir/main.cpp.obj	846ae3d1c891a75
+477	2794	7773771231801430	CMakeFiles/Heart.dir/ChatManager.cpp.obj	5e72e43d4f796d34
+470	2855	7773771231721721	CMakeFiles/Heart.dir/addpage.cpp.obj	ea002559fa948f4b
+459	3052	7773771231622027	CMakeFiles/Heart.dir/mainpage.cpp.obj	3e56b9cba00ca585
